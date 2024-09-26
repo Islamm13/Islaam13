@@ -26,4 +26,5 @@ public class Fruit {
     @NotNull
     private double price;
 
+
 }
